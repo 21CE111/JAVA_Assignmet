@@ -1,5 +1,5 @@
-//Name : Jenil Makhansa
-//ID   : 21CE065
+//Name : Rushit Rabadiya
+//ID   : 21CE111
 /*AiM:Design a class named Triangle that extends GeometricObject. 
 •   The class contains: Three double data fields named side1, side2, and side3 
 •   with default values 1.0 to denote three sides of a triangle. 
