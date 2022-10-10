@@ -1,5 +1,5 @@
-//Name : Jenil Makhansa
-//ID   : 21CE065
+//Name : Rushit Rabadiya
+//ID   : 21CE111
 /*In an n-sided regular polygon, all sides have the same length and all angles have the same degree (i.e., the polygon is both equilateral and equiangular). Design a class named RegularPolygon that contains: 
 •   A private int data field named n that defines the number of sides in the polygon with default value 3.
 •   A private double data field named side that stores the length of the side with default value 1.
