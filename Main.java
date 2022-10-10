@@ -1,5 +1,5 @@
-//Name : Jenil Makhansa
-//ID   : 21CE065
+//Name : Rushit Rabadiya
+//ID   : 21CE111
 /* Create a Triplet class that encapsulatesthree objects of the same data type in a given instance of Triplet. */
 class Triplet<T> {
     private T object1;
