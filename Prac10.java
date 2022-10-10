@@ -1,5 +1,5 @@
-//Name : Jenil Makhansa
-//ID   : 21CE065
+//Name : Rushit Rabadiya
+//ID   : 21CE111
 //Aim:-Define a class named ComparableSquare that extends Square and implements 
 // Comparable. Implement the compareTo method to compare the Squares on the basis 
 // of area. Write a ComparableSquare class to find the larger of two instances of 
