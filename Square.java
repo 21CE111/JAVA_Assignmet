@@ -1,5 +1,5 @@
-//Name : Jenil Makhansa
-//ID   : 21CE065
+//Name : Rushit Rabadiya
+//ID   : 21CE111
 /*AIM:Design an interface named Colorable with a void method named howToColor(). 
 Every class of a colorable object must implement the Colorable interface. Design a 
 class named Square that extends GeometricObject and implements Colorable. 
