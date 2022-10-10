@@ -1,5 +1,5 @@
-//Name : Jenil Makhansa
-//ID   : 21CE065
+//Name : Rushit Rabadiya
+//ID   : 21CE111
 /*Aim:-Create a class named Stack. Design a class named Queue for storing integers. Like a 
 stack, a queue holds elements. In a stack, the elements are retrieved in a last-in firstout fashion. In a queue, the elements are retrieved in a first-in first-out fashion. The 
 class contains: 
