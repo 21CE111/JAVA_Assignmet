@@ -1,5 +1,5 @@
-//Name : Jenil Makhansa
-//ID   : 21CE065
+//Name : Rushit Rabadiya
+//ID   : 21CE111
 /* Create  an  Association  class  that  encapsulates  two  objects  of  differenttypes.  Similar to  Exercise above,  create  a  Transition  class  that  does  thesame  of  Association  class with three objects. */
 class Association<T1, T2> {
     T1 object1;
